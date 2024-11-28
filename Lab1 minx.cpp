@@ -7,6 +7,6 @@ int main() {
 	if (n1>n2) {
 		printf("n1 greater than n2");
 	} else {
-		printf("n1 greater than n2");
+		printf("n2 greater than n1");
 	}
 }
